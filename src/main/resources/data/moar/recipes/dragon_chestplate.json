@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": ["D D", "EBE", "DDD"],
+  "result": {
+    "item": "moar:armor/dragon_armor_chestplate"
+  }
+}

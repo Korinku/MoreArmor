@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": ["X X", "X X", "   "],
+  "result": {
+    "item": "moar:armor/ghast_armor_boots"
+  }
+}

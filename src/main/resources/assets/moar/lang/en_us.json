@@ -1,0 +1,41 @@
+{
+  "item.moar.armor.knight_armor_helmet": "Capacete de Cavaleiro",
+  "item.moar.armor.knight_armor_chestplate": "Peitoral de Cavaleiro",
+  "item.moar.armor.knight_armor_legs": "Calças de Cavaleiro",
+  "item.moar.armor.knight_armor_boots": "Botas de Cavaleiro",
+
+  "item.moar.armor.hopper_armor_helmet": "Capacete de Hopper",
+  "item.moar.armor.hopper_armor_chestplate": "Peitoral de Hopper",
+  "item.moar.armor.hopper_armor_legs": "Calças de Hopper",
+  "item.moar.armor.hopper_armor_boots": "Botas de Hopper",
+
+  "item.moar.armor.invis_armor_helmet": "Capacete da Invisibilidade",
+  "item.moar.armor.invis_armor_chestplate": "Peitoral da Invisibilidade",
+  "item.moar.armor.invis_armor_legs": "Calças da Invisibilidade",
+  "item.moar.armor.invis_armor_boots": "Botas da Invisibilidade",
+
+  "item.moar.armor.photo_armor_helmet": "Capacete com Fotossíntese",
+  "item.moar.armor.photo_armor_chestplate": "Peitoral com Fotossíntese",
+  "item.moar.armor.photo_armor_legs": "Calças com Fotossíntese",
+  "item.moar.armor.photo_armor_boots": "Botas com Fotossíntese",
+
+  "item.moar.armor.rainbow_armor_helmet": "Capacete Arco-Íris",
+  "item.moar.armor.rainbow_armor_chestplate": "Peitoral Arco-Íris",
+  "item.moar.armor.rainbow_armor_legs": "Calças Arco-Íris",
+  "item.moar.armor.rainbow_armor_boots": "Botas Arco-Íris",
+
+  "item.moar.armor.ghast_armor_helmet": "Capacete de Ghast",
+  "item.moar.armor.ghast_armor_chestplate": "Peitoral de Ghast",
+  "item.moar.armor.ghast_armor_legs": "Calças de Ghast",
+  "item.moar.armor.ghast_armor_boots": "Botas de Ghast",
+
+  "item.moar.armor.dragon_armor_helmet": "Capacete do Dragão",
+  "item.moar.armor.dragon_armor_chestplate": "Peitoral do Dragão",
+  "item.moar.armor.dragon_armor_legs": "Calças do Dragão",
+  "item.moar.armor.dragon_armor_boots": "Botas do Dragão",
+
+  "key.category.moar": "Mais Armaduras",
+  "key.moar.shoot.fireballs": "Disparar Bolas de Fogo",
+
+  "itemGroup.moar.moar_group": "Mais Armaduras"
+}

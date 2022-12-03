@@ -1,0 +1,60 @@
+{
+  "display": {
+    "title": {
+      "text": "Armaduras Diferenciadas",
+      "bold": false,
+      "italic": true
+    },
+    "description": {
+      "text": "hoje é normal"
+    },
+    "icon": {
+      "item": "minecraft:command_block"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+  },
+  "criteria": {
+    "Placed": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:crafting_table"
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "moar:dragon_boots",
+      "moar:dragon_helmet",
+      "moar:dragon_chestplate",
+      "moar:dragon_leggings",
+      "moar:ghast_boots",
+      "moar:ghast_helmet",
+      "moar:ghast_chestplate",
+      "moar:ghast_leggings",
+      "moar:hopper_boots",
+      "moar:hopper_helmet",
+      "moar:hopper_chestplate",
+      "moar:hopper_leggings",
+      "moar:invis_boots",
+      "moar:invis_helmet",
+      "moar:invis_chestplate",
+      "moar:invis_leggings",
+      "moar:knight_boots",
+      "moar:knight_helmet",
+      "moar:knight_chestplate",
+      "moar:knight_leggings",
+      "moar:photo_boots",
+      "moar:photo_helmet",
+      "moar:photo_chestplate",
+      "moar:photo_leggings",
+      "moar:rainbow_boots",
+      "moar:rainbow_helmet",
+      "moar:rainbow_chestplate",
+      "moar:rainbow_leggings"
+    ]
+  }
+}

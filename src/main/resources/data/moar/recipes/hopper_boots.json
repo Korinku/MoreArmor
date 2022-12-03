@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:hopper"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": ["I I", "X X", "   "],
+  "result": {
+    "item": "moar:armor/hopper_armor_boots"
+  }
+}

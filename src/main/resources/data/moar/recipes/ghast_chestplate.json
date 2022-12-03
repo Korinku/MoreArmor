@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:ghast_tear"
+    },
+    "I": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": ["I I", "IXI", "III"],
+  "result": {
+    "item": "moar:armor/ghast_armor_chestplate"
+  }
+}

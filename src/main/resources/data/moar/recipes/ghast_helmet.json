@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": ["III", "I I", "   "],
+  "result": {
+    "item": "moar:armor/ghast_armor_helmet"
+  }
+}

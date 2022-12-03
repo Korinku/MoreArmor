@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": ["X X", "X X", "   "],
+  "result": {
+    "item": "moar:armor/invis_armor_boots"
+  }
+}
